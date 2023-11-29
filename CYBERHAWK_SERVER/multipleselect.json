@@ -1,0 +1,68 @@
+{
+	"sectors": [
+		{
+			"title": "Archive Files",
+			"extensions": [
+				{"name": ".bz2",  "value": "\\.bz2|application/x-bzip2"},
+				{"name": ".cab",  "value": "\\.cab|application/vnd.ms-cab-compressed|application/cab|application/x-cabinet"},
+				{"name": ".dll",  "value": "\\.dll|application/x-msdownload|application/octet-stream|application/x-msdos-program"},
+				{"name": ".gtar", "value": "\\.gtar|application/tar|application/x-gtar|application/x-tar"},
+				{"name": ".gz",   "value": "\\.gz|application/gzip|application/gzip-compressed|application/gzipped-application/x-gunzip|application/x-gzip"},
+				{"name": ".zed",  "value": "\\.zed|application/CDFV2-unknown"},
+				{"name": ".zip",  "value": "\\.zip|application/zip"}
+			]
+		},
+		{
+			"title": "Audio / Video",
+			"extensions": [
+				{"name": ".aac",               "value": "\\.aac|audio/aac"},
+				{"name": ".aif, .aifc, .aiff", "value": "\\.aif|\\.aifc|\\.aiff|audio/aiff|audio/aifc|audio/x-aiff"},
+				{"name": ".asf, .asr, .asx",   "value": "\\.asf|\\.asr|\\.asx|video/x-ms-asf"},
+				{"name": ".au",                "value": "\\.au|audio/basic|audio/au|audio/x-au|audio/x-basic"},
+				{"name": ".avi",               "value": "\\.avi|video/avi|application/x-troff-msvideo|image/avi|video/msvideo|video/x-msvideo|video/xmpg2"},
+				{"name": ".dv, .dvi",          "value": "\\.dv|\\.dvi|video/x-dv|application/x-dvi"},
+				{"name": ".m1v, .m2v",         "value": "\\.m1v|\\.m2v|video/mpeg"},
+				{"name": ".m3u",               "value": "\\.m3u|audio/x-mpegurl|application/x-winamp-playlist|audio/mpegurl|audio/mpeg-url|audio/playlist|audio/scpls|audio/x-scpls"},
+				{"name": ".m4a",               "value": "\\.m4a|audio/m4a|audio/x-m4a"},
+				{"name": ".m4v",               "value": "\\.m4v|video/mp4|video/mpeg4|video/x-m4v"}
+			]
+		},
+		{
+			"title": "Executable Files",
+			"extensions": [
+				{"name": ".bash", "value": "\\.bash|application/x-sh|application/x-shellscript"},
+				{"name": ".bat",  "value": "\\.bat|application/bat|application/x-bat|application/x-msdos-program"},
+				{"name": ".bin",  "value": "\\.bin|application/octet-stream"},
+				{"name": ".csh",  "value": "\\.csh|application/x-csh"},
+				{"name": ".exe",  "value": "\\.exe|vms/exe|application/x-msdownload|application/x-msdos-program|application/dos-exe|application/x-dosexec|application/x-ms-dos-executable|application/exe|application/msdos-windows|application/x-sdlc|application/x-exe|application/x-winexe"},
+				{"name": ".jar",  "value": "\\.jar|application/java-archive"},
+				{"name": ".js",   "value": "\\.js|application/x-javascript|application/javascript|text/javascript"},
+				{"name": ".ps1",  "value": "\\.ps1"},
+				{"name": ".sh",   "value": "\\.sh|application/x-sh|application/x-shellscript"}
+			]
+		},
+		{
+			"title": "Images",
+			"extensions": [
+				{"name": ".bmp, .dib",               "value": "\\.bmp|\\.dib|image/bmp"},
+				{"name": ".gif",                     "value": "\\.gif|image/gif"},
+				{"name": ".ico",                     "value": "\\.ico|image/x-ico"},
+				{"name": ".jfif, .jpe, .jpeg, .jpg", "value": "\\.jfif|\\.jpe|\\.jpeg|\\.jpg|image/jpeg|image/pjpeg"}
+			]
+		},
+		{
+			"title": "Office Documents",
+			"extensions": [
+				{"name": ".doc, .docm, .docx, .dot, .dotm, .dotx", "value": "\\.doc|\\.docm|\\.docx|\\.dot|\\.dotm|\\.dotx|application/vnd.openxmlformats-officedocument.wordprocessingml.template|application/vnd.ms-word.document.12|application/vnd.openxmlformats-officedocument.word|application/vnd.openxmlformats-officedocument.wordprocessingml.document|application/vnd.ms-word.document.macroEnabled.12|application/vnd.ms-word|application/doc|application/msword|application/msword-doc|application/vnd.msword|application/winword|application/word|application/x-msw6|application/x-msword|application/x-msword-doc"}
+			]
+		},
+		{
+			"title": "Portable Document Format",
+			"extensions": [
+				{"name": ".pdf", "value": "\\.pdf|application/pdf"}
+			]
+		}
+	]
+}
+
+
