@@ -15,7 +15,7 @@
 
 >[!IMPORTANT]
 >Description in French first, then in English below.
->The installation manual is currently only available in french. Sorry for the inconvenience.
+>- The installation manual is currently only available in french. Sorry for the inconvenience.
 
 ## [FR][CyberHawk] Fiche descriptive
 
