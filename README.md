@@ -18,6 +18,9 @@
 >- Description in French first, then in English below.
 >- The installation manual is currently only available in french. Sorry for the inconvenience.
 
+> [!NOTE]  
+> We would like to thank all those involved in the CyberHawk project, especially Ludovic Courgnaud and Laurent Jacques.
+
 ## [FR][CyberHawk] Fiche descriptive
 
 ### Problématiques et enjeux :
