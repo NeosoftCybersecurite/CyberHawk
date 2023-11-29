@@ -15,7 +15,7 @@
 >- CONIX is now part of the Neosoft group, with no particular distinction.
 
 >[!IMPORTANT]
->- Description in French first, then in English below.
+>- Description in French first, then in <a href=https://github.com/NeosoftCybersecurite/CyberHawk/blob/main/README.md#encyberhawk-description-sheet> English below</a>.
 >- The installation manual is currently only available in french. Sorry for the inconvenience.
 
 > [!NOTE]  
