@@ -9,15 +9,12 @@
 
 > [!CAUTION]
 > This project is no longer maintained by Neosoft, and we are releasing it under the GPLv3 license in order to make it available to the community and to those who need our solution.
-
 >[!WARNING]
->- Description in French first, then in English below.You can see in some documents the name of the company CONIX.
+>- Description in French first, then in English below. You can see in some documents the name of the company CONIX.
 >- CONIX is now part of the Neosoft group, with no particular distinction.
-
 >[!IMPORTANT]
 >- Description in French first, then in English below.
 >- The installation manual is currently only available in french. Sorry for the inconvenience.
-
 > [!NOTE]  
 > We would like to thank all those involved in the CyberHawk project, especially Ludovic Courgnaud and Laurent Jacques.
 
