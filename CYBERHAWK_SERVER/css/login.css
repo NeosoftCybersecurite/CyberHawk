@@ -1,0 +1,133 @@
+/*----------------------------
+	The Form
+-----------------------------*/
+
+
+#login{
+	width:440px;
+	margin:-30px auto 120px;
+	position:relative;
+	text-align:center;
+}
+
+#login form{
+	width:440px;
+	height:350px;
+	background:url('../images/24eng9x.png') no-repeat;
+	padding-top: 50px;
+}
+
+#login form .row{
+	position:relative;
+}
+
+#login form .row.error:after,
+#login form .row.success:after{
+	content:'';
+	
+	position:absolute;
+	right: 75px;
+	top: 8px;
+	width:32px;
+	height:32px;
+	background:url('../images/33c4s9c.png') no-repeat;
+}
+
+#login form .row.error:after{
+	background-position: 0 -79px;
+}
+
+#login form input[type=text],
+#login form input[type=password]{
+
+	border:none;
+	background:url('../images/2qm0ndc.png') no-repeat top left;
+	font:14px 'Segoe UI','Arial',sans-serif;
+	color:#888;
+	
+	outline:none;
+	
+    height: 48px;
+    margin: 0 auto 22px;
+    padding: 0 10px 0 50px;
+    width: 278px;
+}
+
+#login form input[disabled]{
+	opacity: 0.5;
+}
+
+#login form .email input{
+	background-position:0 0;
+}
+
+#login form .email input:focus{
+	background-position:0 -48px;
+}
+
+#login form .pass input{
+	background-position:0 -96px;
+}
+
+#login form .pass input:focus{
+	background-position:0 -144px;
+}
+
+
+/*----------------------------
+	The Submit Button
+-----------------------------*/
+#login *, *:after, *:before { -webkit-box-sizing: initial; -moz-box-sizing: initial; box-sizing: initial; } 
+
+
+
+
+/*----------------------------
+	The Arrow
+-----------------------------*/
+
+
+#login form .arrow{
+    background: url("../images/14txydw.jpg") no-repeat -10px 0;
+    height: 120px;
+    left: 229px;
+    position: absolute;
+    top: 220px;
+    width: 11px;
+    
+   	/* Defining a smooth CSS3 animation for turning the arrow */
+    
+    -moz-transition:0.3s;
+    -webkit-transition:0.3s;
+    -o-transition:0.3s;
+    -ms-transition:0.3s;
+    transition:0.3s;
+    
+    /* Putting the arrow in its initial position */
+    
+	-moz-transform: rotate(-134deg);
+	-webkit-transform: rotate(-134deg);
+	-o-transform: rotate(-134deg);
+	-ms-transform: rotate(-134deg);
+	transform: rotate(-134deg);
+}
+
+#login form .arrowCap{
+	background: url("../images/14txydw.jpg") no-repeat -43px 0;
+	height: 20px;
+	left: 223px;
+	position: absolute;
+	top: 271px;
+	width: 20px;
+	z-index: 10;
+}
+
+#login form .meterText{
+	color: #575757;
+	font-size: 10px;
+	left: 203px;
+	line-height: 1.1;
+	position: absolute;
+	top: 315px;
+	width: 60px;
+}
