@@ -15,6 +15,7 @@
 
 >[!IMPORTANT]
 >Description in French first, then in English below.
+>The installation manual is currently only available in french. Sorry for the inconvenience.
 
 ## [FR][CyberHawk] Fiche descriptive
 
@@ -212,6 +213,3 @@ Several states are available on the Decontamination Server web interface. Indica
 - Fill in the question in the file "**[EN][CyberHawk] Client Questionnaire**".
 - Install Cyberhawk environments following the procedure in the document "**[FR][CyberHawk] Documentation Installation**". 
 - Read the user manual "**[EN][CyberHawk] User Manual**".
-
-> [!IMPORTANT]
-> The installation manual is currently only available in french. Sorry for the inconvenience.
