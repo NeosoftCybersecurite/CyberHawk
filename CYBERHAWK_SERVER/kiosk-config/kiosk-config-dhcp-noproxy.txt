@@ -1,0 +1,15 @@
+connection=wired
+dhcp=yes
+browser=firefox
+volume_level=0%
+enable_file_protocol=yes
+homepage_check=CyberHawk n'est pas accessible. Merci de contacter votre Administrateur !
+homepage=http://X.X.X.X/
+session_idle_forced=3
+disable_navigation_bar=yes
+removable_devices=yes
+screensaver_idle=5
+shutdown_menu=reboot restart-session shutdown sleep
+screensaver_video=http://X.X.X.X/images/CyberHawk.mp4
+whitelist=X.X.X.X
+additional_components=uefi.zip
