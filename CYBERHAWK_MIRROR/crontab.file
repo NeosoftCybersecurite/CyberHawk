@@ -1,0 +1,2 @@
+0 20 * * * python /root/scripts/av_updates_client.py
+0 18 * * * sh /root/scripts/send_mail.sh
