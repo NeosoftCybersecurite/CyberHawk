@@ -12,7 +12,7 @@
 
 >[!WARNING]
 >- You can see in some documents the name of the company CONIX.
->- CONIX is now part of the <a href=https://www.neosoft.fr/> Néosoft </a>, with no particular distinction.
+>- CONIX is now part of <a href=https://www.neosoft.fr/> Néosoft</a>, with no particular distinction.
 
 >[!IMPORTANT]
 >- Description in French first, then in <a href=https://github.com/NeosoftCybersecurite/CyberHawk/blob/main/README.md#encyberhawk-description-sheet> English below</a>.
