@@ -11,8 +11,8 @@
 > This project is no longer maintained by Neosoft, and we are releasing it under the <a href=https://github.com/NeosoftCybersecurite/CyberHawk/blob/main/LICENSE.md>GPLv3 license </a> in order to make it available to the community and to those who need our solution.
 
 >[!WARNING]
->- Description in French first, then in English below. You can see in some documents the name of the company CONIX.
->- CONIX is now part of the Neosoft group, with no particular distinction.
+>- You can see in some documents the name of the company CONIX.
+>- CONIX is now part of the <a href=https://www.neosoft.fr/> Néosoft </a>, with no particular distinction.
 
 >[!IMPORTANT]
 >- Description in French first, then in <a href=https://github.com/NeosoftCybersecurite/CyberHawk/blob/main/README.md#encyberhawk-description-sheet> English below</a>.
