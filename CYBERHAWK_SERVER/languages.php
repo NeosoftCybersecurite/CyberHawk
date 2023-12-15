@@ -120,10 +120,10 @@ $_ENV["Contact10"][1] = "Contact Email:";
 $_ENV["Contact10"][2] = "Email de contacto:";
 $_ENV["Contact10"][3] = "Contatto email:";
 
-$_ENV["Home0"][0] = "Bienvenue dans CyberHawk by CONIX !<br /><br />";
-$_ENV["Home0"][1] = "Welcome to CyberHawk by CONIX!<br /><br />";
-$_ENV["Home0"][2] = "Bienvenido a CyberHawk by CONIX!<br /><br />";
-$_ENV["Home0"][3] = "Benvenuto in CyberHawk by CONIX!<br /><br />";
+$_ENV["Home0"][0] = "Bienvenue dans CyberHawk by Néosoft !<br /><br />";
+$_ENV["Home0"][1] = "Welcome to CyberHawk by Néosoft!<br /><br />";
+$_ENV["Home0"][2] = "Bienvenido a CyberHawk by Néosoft!<br /><br />";
+$_ENV["Home0"][3] = "Benvenuto in CyberHawk by Néosoft!<br /><br />";
 
 $_ENV["Home1"][0] = "CyberHawk vous offre un espace sécurisé de stockage de fichiers.<br />Actuellement, chaque fichier est analysé par ";
 $_ENV["Home1"][1] = "CyberHawk offers you a secured file storage space.<br />Currently, each file is analysed by ";
