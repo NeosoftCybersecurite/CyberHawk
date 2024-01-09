@@ -53,6 +53,15 @@ Contrairement aux solutions physiques concurrentes permettant la décontaminatio
    <img src="/CYBERHAWK-IL/flux.png" alt="Alt text">
 </p>
 
+### Mise à jour :
+
+<p align="center">
+   <img src="/CYBERHAWK-IL/update.png" alt="Alt text">
+</p>
+<p align="center">
+   <img src="/CYBERHAWK-IL/Orchestration.png" alt="Alt text">
+</p>
+
 ### Cas d’usages :
 
 **Envoi et décontamination depuis un média amovible :**
@@ -161,6 +170,15 @@ Unlike competitive solutions allowing USB keys decontamination on physical termi
 
 <p align="center">
    <img src="/CYBERHAWK-IL/flux.png" alt="Alt text">
+</p>
+
+### Updates :
+
+<p align="center">
+   <img src="/CYBERHAWK-IL/update.png" alt="Alt text">
+</p>
+<p align="center">
+   <img src="/CYBERHAWK-IL/Orchestration.png" alt="Alt text">
 </p>
 
 ### Use cases:
